@@ -25,9 +25,9 @@ jobs:
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
 
       # chon thumb tieude bat dau
-      SEQ_BASE_RUN: "183"
-      TITLE_START: "59"
-      THUMB_START: "59"
+      SEQ_BASE_RUN: "202"
+      TITLE_START: "77"
+      THUMB_START: "77"
 
       # công tắt chọn poll hoặc cloudflare
       IMG_PROVIDER: cloudflare
